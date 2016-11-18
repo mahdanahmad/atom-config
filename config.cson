@@ -1,4 +1,6 @@
 "*":
+"autocomplete-plus":
+    confirmCompletion: "enter"
   editor:
     fontSize: 11
     tabLength: 4
